@@ -1,13 +1,13 @@
-package com.sarab.sarab;
+package graphqlapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SarabApplication {
+public class GraphqlApp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SarabApplication.class, args);
+		SpringApplication.run(GraphqlApp.class, args);
 	}
 
 }
